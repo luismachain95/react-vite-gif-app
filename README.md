@@ -9,3 +9,5 @@ Para este proyecto se utilizaron:
 -Hooks
 -Api de GIPHY
 -Otros
+
+Puede ver el resultado en: rugiente-florentino-489c99.netlify.app
